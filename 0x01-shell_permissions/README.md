@@ -10,3 +10,4 @@
 9. sets the mode of hello to rwxr-x-wr.
 10. sets the mode of hello the same as alleh's mode.
 11. adds execute permission to all subdirectories of the current directory for the owner, group and others.
+12. creates a directory called my_dir with permissions 751 in the working directory.
