@@ -9,3 +9,4 @@
 8. sets no permission to owner and group, and all permissions to others.
 9. sets the mode of hello to rwxr-x-wr.
 10. sets the mode of hello the same as alleh's mode.
+11. adds execute permission to all subdirectories of the current directory for the owner, group and others.
