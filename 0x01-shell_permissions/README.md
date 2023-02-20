@@ -7,3 +7,4 @@
 6. adds execute permission to the owner and the group owner, and read permission to the other users, to the file hello.
 7. adds execute permission to the owner, group owner and other users, to the file hello.
 8. sets no permission to owner and group, and all permissions to others.
+9. sets the mode of hello to rwxr-x-wr.
